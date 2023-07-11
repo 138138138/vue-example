@@ -2,7 +2,7 @@
 
 An example Vue project for adding/editing/deleteing data.
 
-Provide a frontend for Spring Boot CURD Example. [(Project Link)](https://cli.vuejs.org/config/)
+Provide a frontend for Spring Boot CURD Example. [(Project Link)](https://github.com/138138138/java-springboot-example)
 
 ## Project setup
 
